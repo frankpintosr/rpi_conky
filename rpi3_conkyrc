@@ -1,3 +1,4 @@
+#This is the customized configuration file that formats the results on your desktop
 background yes
 use_xft yes
 xftfont 123:size=8
