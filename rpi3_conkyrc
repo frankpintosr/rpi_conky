@@ -51,7 +51,7 @@ ${cpugraph DimGray DarkSlateGray} $color
 ${font Arial:bold:size=10}${color Tan1}MEMORY ${color DarkSlateGray}${hr 2}
 $font${color DimGray}MEM $alignc $mem / $memmax $alignr $memperc%
 $membar
-$font${color DimGray}SWAP $alignc $swap / $swapmax $alignr $swapperc%
+$font${color DimGray}ZRAM $alignc $swap / $swapmax $alignr $swapperc%
 $swapbar
 
 ${font Arial:bold:size=10}${color Tan1}HDD ${color DarkSlateGray}${hr 2}
